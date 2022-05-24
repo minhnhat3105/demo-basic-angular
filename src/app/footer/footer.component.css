@@ -1,0 +1,23 @@
+.container{
+    background-color: #e6e6e6;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.inner{
+    width: fit-content;
+    padding: 0 30px;
+}
+
+.line{
+    display: inline-block;
+}
+
+h4{
+    color: #a7a5a5;
+}
+
+a{
+    text-decoration: none;
+}
